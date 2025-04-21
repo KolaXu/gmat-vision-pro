@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,6 +62,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				gold: {
+					'50': '#fbf8eb',
+					'100': '#f6eeca',
+					'200': '#eedb95',
+					'300': '#e6c96b',
+					'400': '#d4af37',
+					'500': '#c69a26',
+					'600': '#a9791e',
+					'700': '#85591c',
+					'800': '#70481d',
+					'900': '#613c1e',
+					'950': '#382010',
 				},
 				gmat: {
 					blue: '#000000',
