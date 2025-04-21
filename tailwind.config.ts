@@ -63,9 +63,9 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				},
 				gmat: {
-					blue: '#0057FF',
-					purple: '#8B5CF6',
-					'purple-light': '#D6BCFA',
+					blue: '#000000',
+					purple: '#D4AF37',
+					'purple-light': '#E6C96B',
 					green: '#10B981',
 					orange: '#F97316',
 					slate: '#1A1F2C',
