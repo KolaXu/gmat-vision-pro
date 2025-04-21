@@ -1,12 +1,11 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
   :root {
-    /* Set background to pure black in HSL */
-    --background: 0 0% 0%;
+    /* Restore background to clean white */
+    --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
@@ -153,4 +152,3 @@
     background: linear-gradient(135deg, rgba(26,31,44,0.9) 0%, rgba(18,18,30,1) 100%);
   }
 }
-
